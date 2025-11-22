@@ -1,4 +1,4 @@
-## Exp. No. 1(a)
+![WhatsApp Image 2025-11-22 at 11 04 49_592eae4d](https://github.com/user-attachments/assets/39c62c85-c58f-44d7-9b93-a002ac09c2a7)## Exp. No. 1(a)
 **Date:**  
 ## FREQUENCY RESPONSE OF VOLTAGE SERIES FEEDBACK AMPLIFIER
 <img width="1117" height="1192" alt="image" src="https://github.com/user-attachments/assets/53877086-6a31-494a-a6ac-e5746cacd3db" />
@@ -14,11 +14,15 @@
 
 ## Tabulation
 
+![WhatsApp Image 2025-11-22 at 11 04 48_14fb4912](https://github.com/user-attachments/assets/91e6cabb-e593-45a0-ac0d-db34e805c912)
+
 
 ## Graph
 
+![WhatsApp Image 2025-11-22 at 11 04 49_592eae4d](https://github.com/user-attachments/assets/1df0e585-b626-4fd5-beee-bb50eb9bdbb0)
 
 ## Sample images 
+![WhatsApp Image 2025-11-22 at 11 05 13_05f8dcdc](https://github.com/user-attachments/assets/28e8e289-3bd6-48c6-b004-49b47f55c384)
 
 
 ## **Result**
