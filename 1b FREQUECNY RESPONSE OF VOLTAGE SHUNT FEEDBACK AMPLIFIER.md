@@ -15,12 +15,15 @@
 <img width="689" height="382" alt="image" src="https://github.com/user-attachments/assets/0ce0d0fa-b220-4727-bdc4-d6a9b06bd56c" />
 
 # Tabulation
+![WhatsApp Image 2025-11-22 at 11 11 50_f37cc7a4](https://github.com/user-attachments/assets/84887e27-d7c3-4578-a27e-97294a3dc31b)
 
 
 # Graph
+![WhatsApp Image 2025-11-22 at 11 11 51_a782b0a6](https://github.com/user-attachments/assets/b389c79b-6ff5-4996-8334-98c775d8777c)
 
 
 # Sample images 
+![WhatsApp Image 2025-11-22 at 11 05 14_09beeae4](https://github.com/user-attachments/assets/1e8a39ab-91f9-4021-a4cd-76e822420423)
 
 
 ### **Result**
