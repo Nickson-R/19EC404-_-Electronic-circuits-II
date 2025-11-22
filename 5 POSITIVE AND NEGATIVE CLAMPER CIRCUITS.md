@@ -1,5 +1,5 @@
 ## Exp. No. 5
-**Date:18/10/2025**  
+**Date:11/10/2025**  
 
 ## POSITIVE AND NEGATIVE CLAMPER CIRCUITS
 <img width="740" height="585" alt="image" src="https://github.com/user-attachments/assets/dc3afb1d-31c1-4b7c-b5af-65ddfe042778" />
