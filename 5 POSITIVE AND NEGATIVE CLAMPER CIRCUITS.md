@@ -24,3 +24,4 @@
 
 
 # Result
+Thus the operation of non-linear wave shaping clamper circuit is performed.
