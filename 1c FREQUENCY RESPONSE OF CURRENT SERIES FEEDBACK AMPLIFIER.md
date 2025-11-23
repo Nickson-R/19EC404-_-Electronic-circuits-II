@@ -16,11 +16,14 @@
 
 # Tabulation
 
+[Document 138-2.pdf](https://github.com/user-attachments/files/23695555/Document.138-2.pdf)
 
 # Graph
+[Document 138-3.pdf](https://github.com/user-attachments/files/23695558/Document.138-3.pdf)
 
 
 # Sample images 
+![WhatsApp Image 2025-11-22 at 11 05 13_05f8dcdc](https://github.com/user-attachments/assets/531c4798-b95d-499d-8613-4aeef1d0b157)
 
 
 ### **Result**
