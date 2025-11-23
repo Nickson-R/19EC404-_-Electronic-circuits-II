@@ -13,9 +13,11 @@
 
 
 # Tabulation
+<img width="392" height="278" alt="image" src="https://github.com/user-attachments/assets/f1110ec9-ea13-47bd-afb7-d56400b5ade3" />
 
 
 # Graph
+<img width="545" height="752" alt="image" src="https://github.com/user-attachments/assets/f7d202a1-0267-40ad-9d9d-71f6ae1f3aea" />
 
 
 # Sample images 
