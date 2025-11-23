@@ -16,10 +16,12 @@
 
 # Tabulation
 
-[Document 138-2.pdf](https://github.com/user-attachments/files/23695555/Document.138-2.pdf)
+![Document 138-2](https://github.com/user-attachments/assets/8a6db07a-5a8f-40a9-af08-ea5c36bb8f9d)
+
 
 # Graph
-[Document 138-3.pdf](https://github.com/user-attachments/files/23695558/Document.138-3.pdf)
+
+![Document 138-3](https://github.com/user-attachments/assets/eb932914-60cd-475c-830f-e9c0ece50dd3)
 
 
 # Sample images 
