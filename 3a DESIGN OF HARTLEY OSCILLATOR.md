@@ -14,11 +14,10 @@
 
 
 # Tabulation
-| Amplitude | Time Period | Practical Frequency | Theoretical Frequency |
-|------------|--------------|----------------------|------------------------|
-|            |              |                      |                        |
+<img width="401" height="669" alt="image" src="https://github.com/user-attachments/assets/fe31bb50-926f-43b8-bd83-2b3bcd4b42d3" />
 
 # Graph
+<img width="538" height="721" alt="image" src="https://github.com/user-attachments/assets/5c51a69f-0287-4676-9620-9a5c735564ba" />
 
 
 # Sample images 
