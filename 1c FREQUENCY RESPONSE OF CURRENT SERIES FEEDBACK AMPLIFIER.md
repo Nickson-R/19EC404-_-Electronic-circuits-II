@@ -16,12 +16,14 @@
 
 # Tabulation
 
-![Document 138-2](https://github.com/user-attachments/assets/8a6db07a-5a8f-40a9-af08-ea5c36bb8f9d)
+<img width="440" height="805" alt="image" src="https://github.com/user-attachments/assets/2d149225-e038-49f1-bd1e-629fa921e298" />
+
 
 
 # Graph
 
-![Document 138-3](https://github.com/user-attachments/assets/eb932914-60cd-475c-830f-e9c0ece50dd3)
+<img width="646" height="537" alt="image" src="https://github.com/user-attachments/assets/76bf6608-a3ec-4c0b-a5f2-c33537599088" />
+
 
 
 # Sample images 
