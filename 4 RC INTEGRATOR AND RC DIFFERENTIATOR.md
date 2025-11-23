@@ -21,9 +21,11 @@
 <img width="437" height="331" alt="image" src="https://github.com/user-attachments/assets/ac12584c-7c60-4baa-a8e2-a0d1bd24150e" />
 
 # Tabulation
+<img width="399" height="730" alt="image" src="https://github.com/user-attachments/assets/bccafbb1-3828-4b1c-8c7f-eee6a1578274" />
 
 
 # Graph
+<img width="476" height="767" alt="image" src="https://github.com/user-attachments/assets/40268f6e-0d77-4036-853c-964da8d2cddb" />
 
 
 # Sample images 
