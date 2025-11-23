@@ -14,6 +14,8 @@
 
 
 # Output Graph
+<img width="1259" height="590" alt="image" src="https://github.com/user-attachments/assets/a9f112c3-d3bf-458b-8979-e5280db25955" />
+
 # DOUBLE  TUNED AMPLIFIER - output
 <img width="1265" height="714" alt="image" src="https://github.com/user-attachments/assets/77553c91-ce93-45fe-8386-7f8a263ff0af" />
 
