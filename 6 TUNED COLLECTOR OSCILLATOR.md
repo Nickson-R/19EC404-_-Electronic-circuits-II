@@ -6,12 +6,14 @@
 
 # Circuit Diagram 
 
+<img width="1270" height="633" alt="image" src="https://github.com/user-attachments/assets/cac496a4-2091-4199-89ec-c3bb8aae3db2" />
 
 
 # Output Graph
+<img width="1262" height="605" alt="image" src="https://github.com/user-attachments/assets/c66bac67-0112-43de-aa4c-e393eb831dec" />
 
 
 
 # Result
-
+Thus,Tuned oscillator is simulated and it's output is obtained using LTspice
 
