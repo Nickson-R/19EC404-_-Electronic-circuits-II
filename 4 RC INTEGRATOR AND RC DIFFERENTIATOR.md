@@ -32,4 +32,5 @@
 
 
 # Result
+Thus Different Linear Wave Shaping circuits are studied and their output waveforms are plotted.
 
